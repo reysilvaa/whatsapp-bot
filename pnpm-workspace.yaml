@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@scarf/scarf'
+  - bcrypt
+  - core-js
+  - esbuild
+  - puppeteer
+  - sharp
